@@ -1,0 +1,25 @@
+{
+   "name": "mongoose-skustring",
+   "version": "0.0.1",
+   "description": "Generates SKU in mongoose model",
+   "main": "index.js",
+   "directories": {
+      "lib": "."
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/michalmolcan/mongoose-skustring"
+   },
+   "issues": {
+      "url": "https://github.com/michalmolcan/mongoose-skustring/issues"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "mongoose",
+      "nodejs"
+   ],
+   "author": "Michal Molcan",
+   "license": "ISC"
+}
